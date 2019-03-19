@@ -1,0 +1,2 @@
+.sh
+echo "input demo"
